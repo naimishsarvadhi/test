@@ -10,13 +10,6 @@
 </head>
 
 <body>
-    <div class="container">
-        <div class="primary btn-primary">demo</div>
-        <div class="success btn-success">demo</div>
-        <div class="danger btn-danger">demo</div>
-        <div class="dark btn-dark">demo</div>
-    </div>
-
     <form action="test.php" method="POST" enctype="multipart/form-data">
         <table border="1">
             <tr>
